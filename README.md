@@ -15,6 +15,7 @@ Consider a delivery partner named Ravi, a 26-year-old gig worker living in a met
 
 
 Flow Chart
+![Flowchart](./mermaid-diagram.png)
 
 
 
